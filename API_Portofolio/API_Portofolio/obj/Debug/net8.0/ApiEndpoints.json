@@ -1,0 +1,126 @@
+[
+  {
+    "ContainingType": "API_Portofolio.Controllers.AuthenticateController",
+    "Method": "Create",
+    "RelativePath": "api/Authenticate/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "API_Portofolio.Models.Authenticate.Request.CreateAccountRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Portofolio.Controllers.AuthenticateController",
+    "Method": "IsAuthenticated",
+    "RelativePath": "api/Authenticate/is-authenticated",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Portofolio.Controllers.AuthenticateController",
+    "Method": "Login",
+    "RelativePath": "api/Authenticate/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "API_Portofolio.Models.Authenticate.Request.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Portofolio.Controllers.AuthenticateController",
+    "Method": "Logout",
+    "RelativePath": "api/Authenticate/logout",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Portofolio.Controllers.ChatController",
+    "Method": "GetChats",
+    "RelativePath": "api/Chat/get-chats",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Portofolio.Controllers.OrderController",
+    "Method": "SendMailContact",
+    "RelativePath": "api/Order/contact-send",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "API_Portofolio.Models.Order.Request.SendMailContact_DTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Portofolio.Controllers.OrderController",
+    "Method": "GetHostingPreferences",
+    "RelativePath": "api/Order/get-hostingPreferences",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Portofolio.Controllers.OrderController",
+    "Method": "GetSuportedPlatforms",
+    "RelativePath": "api/Order/get-suportedPlatforms",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Portofolio.Controllers.OrderController",
+    "Method": "GetTypesOfApplication",
+    "RelativePath": "api/Order/get-typesOfApplication",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Portofolio.Controllers.OrderController",
+    "Method": "SendOrder",
+    "RelativePath": "api/Order/save-order",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "API_Portofolio.Models.Order.Request.SendOrder_DTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
