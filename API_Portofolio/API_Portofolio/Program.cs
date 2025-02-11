@@ -61,6 +61,7 @@ builder.Services.AddScoped<ITokensServices, TokensServices>();
 builder.Services.AddScoped<IAuthenticateServices, AuthenticateServices>();
 builder.Services.AddScoped<IOrderServices, OrderServices>();
 builder.Services.AddScoped<IChatServices, ChatServices>();
+builder.Services.AddScoped<IMailServices, MailServices>();
 
 // 3. Swagger pentru documentarea API
 builder.Services.AddEndpointsApiExplorer();

@@ -22,8 +22,9 @@ namespace API_Portofolio.Controllers
         private readonly UserManager<Account> _userManager;
         private readonly ILogger<AuthenticateController> _logger;
         private readonly IChatServices _chatServices;
+        private readonly IMailServices _mailServices;
 
-        public AuthenticateController(ITokensServices tokensService, IAuthenticateServices authenticateService, IAntiforgery antiForgery, UserManager<Account> userManager, ILogger<AuthenticateController> logger, IChatServices chatServices)
+        public AuthenticateController(ITokensServices tokensService, IAuthenticateServices authenticateService, IAntiforgery antiForgery, UserManager<Account> userManager, ILogger<AuthenticateController> logger, IChatServices chatServices, IMailServices mailServices)
         {
             _tokensService = tokensService;
             _authenticateService = authenticateService;
@@ -31,6 +32,7 @@ namespace API_Portofolio.Controllers
             _userManager = userManager;
             _logger = logger;
             _chatServices = chatServices;
+            _mailServices = mailServices;
         }
 
         [HttpPost("create")]
@@ -172,14 +174,54 @@ namespace API_Portofolio.Controllers
         }
 
         [Authorize, HttpPost("change-password")]
-        public async Task<IActionResult> ChangePassword()
+        public async Task<IActionResult> ChangePassword([FromBody]ChangePasswordRequest request)
         {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+
+            var username = User.FindFirst(ClaimTypes.NameIdentifier)?.Value;
+
+            if (username == null)
+            {
+                return Unauthorized("User ID not found in token.");
+            }
+
+            var user = await _userManager.FindByNameAsync(username ?? string.Empty);
+
+            if (user == null)
+            {
+                return Unauthorized("User ID not found in token.");
+            }
+
+            var result = await _authenticateService.ChangePasswordAsync(user,request);
+
             return Ok();
         }
 
-        [Authorize, HttpPost("reset-password")]
-        public async Task<IActionResult> ResetPassword()
+        [HttpPost("send-reset-mail")]
+        public async Task<IActionResult> ResetPassword([FromBody] string email)
         {
+            if (email != string.Empty && email != null){
+                return BadRequest("Email input is required!");
+            }
+
+            var result = await _mailServices.SendResetMailAsync(email);
+
+            return Ok();
+        }
+
+        [HttpPost("reset-password")]
+        public async Task<IActionResult> ResetPassword([FromBody] ResetPasswordRequest request)
+        {
+            if(!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }         
+
+            var result = await _authenticateService.ResetPasswordAsync(request);
+
             return Ok();
         }
     }

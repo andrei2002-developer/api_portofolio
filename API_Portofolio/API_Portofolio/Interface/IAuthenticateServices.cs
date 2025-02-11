@@ -11,7 +11,7 @@ namespace API_Portofolio.Interface
         Task<ErrorOr<bool>> CreateAccountAsync(CreateAccountRequest request);
         Task<ErrorOr<LoginResponse>> LoginAsync(LoginRequest request);
         Task<ErrorOr<RefreshResponse>> RefreshTokenAsync(string refreshToken);
-        Task<ErrorOr<bool>> ChangePasswordAsync(Account request, string password);
-        Task<ErrorOr<bool>> ResetPasswordAsync(Account request);
+        Task<ErrorOr<bool>> ChangePasswordAsync(Account user, ChangePasswordRequest request);
+        Task<ErrorOr<bool>> ResetPasswordAsync(ResetPasswordRequest request);
     }
 }

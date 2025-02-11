@@ -7825,11 +7825,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Proiecte API\\API_Portofolio\\Api_Portofolio.Tests\\Api_Portofolio.Tests.csproj",
+      "projectUniqueName": "E:\\GitHub\\api_portofolio\\API_Portofolio\\Api_Portofolio.Tests\\Api_Portofolio.Tests.csproj",
       "projectName": "Api_Portofolio.Tests",
-      "projectPath": "E:\\Proiecte API\\API_Portofolio\\Api_Portofolio.Tests\\Api_Portofolio.Tests.csproj",
+      "projectPath": "E:\\GitHub\\api_portofolio\\API_Portofolio\\Api_Portofolio.Tests\\Api_Portofolio.Tests.csproj",
       "packagesPath": "C:\\Users\\Andrei\\.nuget\\packages\\",
-      "outputPath": "E:\\Proiecte API\\API_Portofolio\\Api_Portofolio.Tests\\obj\\",
+      "outputPath": "E:\\GitHub\\api_portofolio\\API_Portofolio\\Api_Portofolio.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7851,8 +7851,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\Proiecte API\\API_Portofolio\\API_Portofolio\\API_Portofolio.csproj": {
-              "projectPath": "E:\\Proiecte API\\API_Portofolio\\API_Portofolio\\API_Portofolio.csproj"
+            "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\API_Portofolio.csproj": {
+              "projectPath": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\API_Portofolio.csproj"
             }
           }
         }

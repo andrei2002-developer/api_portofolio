@@ -203,12 +203,12 @@ namespace API_Portofolio.Services
             }
         }
 
-        public Task<ErrorOr<bool>> ChangePasswordAsync(Account request, string password)
+        public Task<ErrorOr<bool>> ChangePasswordAsync(Account user, ChangePasswordRequest request)
         {
             throw new NotImplementedException();
         }
 
-        public Task<ErrorOr<bool>> ResetPasswordAsync(Account request)
+        public Task<ErrorOr<bool>> ResetPasswordAsync(ResetPasswordRequest request)
         {
             throw new NotImplementedException();
         }

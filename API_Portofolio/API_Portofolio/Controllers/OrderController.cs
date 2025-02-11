@@ -122,7 +122,7 @@ namespace API_Portofolio.Controllers
                 };
             }
 
-            var chatResult = _chatServices.CreateOrderChatAsync(user);
+            var chatResult = _chatServices.CreateOrderChatAsync(user,result.Value);
 
             return Ok("Comanda a fost trimisa cu succes");
         }

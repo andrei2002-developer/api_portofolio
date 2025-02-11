@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CDbbpf5zYEg=",
+  "dgSpecHash": "2ukoi48xNk8=",
   "success": true,
-  "projectFilePath": "E:\\Proiecte API\\API_Portofolio\\Api_Portofolio.Tests\\Api_Portofolio.Tests.csproj",
+  "projectFilePath": "E:\\GitHub\\api_portofolio\\API_Portofolio\\Api_Portofolio.Tests\\Api_Portofolio.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Andrei\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Andrei\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",

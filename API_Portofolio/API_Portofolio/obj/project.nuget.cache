@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nie1KfvOGPg=",
+  "dgSpecHash": "HEq4vUCwAzo=",
   "success": true,
-  "projectFilePath": "E:\\Proiecte API\\API_Portofolio\\API_Portofolio\\API_Portofolio.csproj",
+  "projectFilePath": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\API_Portofolio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Andrei\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",
     "C:\\Users\\Andrei\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

@@ -132,3 +132,14 @@ E:\Proiecte API\API_Portofolio\API_Portofolio\bin\Debug\net8.0\Serilog.Settings.
 E:\Proiecte API\API_Portofolio\API_Portofolio\bin\Debug\net8.0\Serilog.Sinks.Console.dll
 E:\Proiecte API\API_Portofolio\API_Portofolio\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
 E:\Proiecte API\API_Portofolio\API_Portofolio\bin\Debug\net8.0\Serilog.Sinks.File.dll
+E:\GitHub\api_portofolio\API_Portofolio\API_Portofolio\obj\Debug\net8.0\API_Portofolio.csproj.AssemblyReference.cache
+E:\GitHub\api_portofolio\API_Portofolio\API_Portofolio\obj\Debug\net8.0\API_Portofolio.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\api_portofolio\API_Portofolio\API_Portofolio\obj\Debug\net8.0\API_Portofolio.AssemblyInfoInputs.cache
+E:\GitHub\api_portofolio\API_Portofolio\API_Portofolio\obj\Debug\net8.0\API_Portofolio.AssemblyInfo.cs
+E:\GitHub\api_portofolio\API_Portofolio\API_Portofolio\obj\Debug\net8.0\API_Portofolio.csproj.CoreCompileInputs.cache
+E:\GitHub\api_portofolio\API_Portofolio\API_Portofolio\obj\Debug\net8.0\API_Portofolio.MvcApplicationPartsAssemblyInfo.cs
+E:\GitHub\api_portofolio\API_Portofolio\API_Portofolio\obj\Debug\net8.0\API_Portofolio.MvcApplicationPartsAssemblyInfo.cache
+E:\GitHub\api_portofolio\API_Portofolio\API_Portofolio\obj\Debug\net8.0\API_Portofolio.sourcelink.json
+E:\GitHub\api_portofolio\API_Portofolio\API_Portofolio\obj\Debug\net8.0\API_Portofolio.dll
+E:\GitHub\api_portofolio\API_Portofolio\API_Portofolio\obj\Debug\net8.0\refint\API_Portofolio.dll
+E:\GitHub\api_portofolio\API_Portofolio\API_Portofolio\obj\Debug\net8.0\API_Portofolio.pdb
