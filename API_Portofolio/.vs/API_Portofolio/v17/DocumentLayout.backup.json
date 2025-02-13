@@ -7,36 +7,72 @@
       "RelativeMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|solutionrelative:api_portofolio\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|e:\\github\\api_portofolio\\api_portofolio\\api_portofolio\\models\\authenticate\\request\\resetpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|solutionrelative:api_portofolio\\models\\authenticate\\request\\resetpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|e:\\github\\api_portofolio\\api_portofolio\\api_portofolio\\services\\mailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|solutionrelative:api_portofolio\\services\\mailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|e:\\github\\api_portofolio\\api_portofolio\\api_portofolio\\interface\\imailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|solutionrelative:api_portofolio\\interface\\imailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|e:\\github\\api_portofolio\\api_portofolio\\api_portofolio\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|solutionrelative:api_portofolio\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|e:\\github\\api_portofolio\\api_portofolio\\api_portofolio\\services\\authenticateservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|solutionrelative:api_portofolio\\services\\authenticateservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|e:\\github\\api_portofolio\\api_portofolio\\api_portofolio\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|solutionrelative:api_portofolio\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|e:\\github\\api_portofolio\\api_portofolio\\api_portofolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|solutionrelative:api_portofolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|e:\\github\\api_portofolio\\api_portofolio\\api_portofolio\\services\\chatservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|solutionrelative:api_portofolio\\services\\chatservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|e:\\github\\api_portofolio\\api_portofolio\\api_portofolio\\interface\\iauthenticateservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|solutionrelative:api_portofolio\\interface\\iauthenticateservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|e:\\github\\api_portofolio\\api_portofolio\\api_portofolio\\database\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|solutionrelative:api_portofolio\\database\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|e:\\github\\api_portofolio\\api_portofolio\\api_portofolio\\database\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|solutionrelative:api_portofolio\\database\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|e:\\github\\api_portofolio\\api_portofolio\\api_portofolio\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|solutionrelative:api_portofolio\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|e:\\github\\api_portofolio\\api_portofolio\\api_portofolio\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|solutionrelative:api_portofolio\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|e:\\github\\api_portofolio\\api_portofolio\\api_portofolio\\database\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|solutionrelative:api_portofolio\\database\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|e:\\github\\api_portofolio\\api_portofolio\\api_portofolio\\services\\mailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|solutionrelative:api_portofolio\\services\\mailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|e:\\github\\api_portofolio\\api_portofolio\\api_portofolio\\interface\\ichatservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|solutionrelative:api_portofolio\\interface\\ichatservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|e:\\github\\api_portofolio\\api_portofolio\\api_portofolio\\interface\\iauthenticateservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|solutionrelative:api_portofolio\\interface\\iauthenticateservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|e:\\github\\api_portofolio\\api_portofolio\\api_portofolio\\models\\authenticate\\request\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|solutionrelative:api_portofolio\\models\\authenticate\\request\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|e:\\github\\api_portofolio\\api_portofolio\\api_portofolio\\services\\tokensservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|solutionrelative:api_portofolio\\services\\tokensservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|e:\\github\\api_portofolio\\api_portofolio\\api_portofolio\\interface\\imailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|solutionrelative:api_portofolio\\interface\\imailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|e:\\github\\api_portofolio\\api_portofolio\\api_portofolio\\models\\authenticate\\request\\resetpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|solutionrelative:api_portofolio\\models\\authenticate\\request\\resetpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|e:\\github\\api_portofolio\\api_portofolio\\api_portofolio\\models\\authenticate\\request\\changepasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|solutionrelative:api_portofolio\\models\\authenticate\\request\\changepasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|e:\\github\\api_portofolio\\api_portofolio\\api_portofolio\\interface\\iorderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,35 +83,11 @@
       "RelativeMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|solutionrelative:api_portofolio\\services\\orderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|e:\\github\\api_portofolio\\api_portofolio\\api_portofolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|solutionrelative:api_portofolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|e:\\github\\api_portofolio\\api_portofolio\\api_portofolio\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|solutionrelative:api_portofolio\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|e:\\github\\api_portofolio\\api_portofolio\\api_portofolio\\database\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|solutionrelative:api_portofolio\\database\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|e:\\github\\api_portofolio\\api_portofolio\\api_portofolio\\database\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|solutionrelative:api_portofolio\\database\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|e:\\github\\api_portofolio\\api_portofolio\\api_portofolio\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|solutionrelative:api_portofolio\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Proiecte API\\API_Portofolio\\API_Portofolio\\Migrations\\20250210171011_UpdateMessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|e:\\github\\api_portofolio\\api_portofolio\\api_portofolio\\database\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|solutionrelative:api_portofolio\\database\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|e:\\github\\api_portofolio\\api_portofolio\\api_portofolio\\database\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|solutionrelative:api_portofolio\\database\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|e:\\github\\api_portofolio\\api_portofolio\\api_portofolio\\models\\chat\\response\\messagelistresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -126,10 +138,6 @@
       "RelativeMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|solutionrelative:api_portofolio\\models\\order\\request\\sendmailcontact_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|e:\\github\\api_portofolio\\api_portofolio\\api_portofolio\\services\\tokensservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|solutionrelative:api_portofolio\\services\\tokensservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|e:\\github\\api_portofolio\\api_portofolio\\api_portofolio\\models\\authenticate\\response\\refreshresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|solutionrelative:api_portofolio\\models\\authenticate\\response\\refreshresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -140,10 +148,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|e:\\github\\api_portofolio\\api_portofolio\\api_portofolio\\interface\\itokensservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|solutionrelative:api_portofolio\\interface\\itokensservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|e:\\github\\api_portofolio\\api_portofolio\\api_portofolio\\models\\authenticate\\request\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|solutionrelative:api_portofolio\\models\\authenticate\\request\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A50B362C-71AF-43EC-AD32-2AD9AE243865}|API_Portofolio\\API_Portofolio.csproj|e:\\github\\api_portofolio\\api_portofolio\\api_portofolio\\models\\authenticate\\internal\\tokensresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -213,70 +217,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Program.cs",
               "RelativeDocumentMoniker": "API_Portofolio\\Program.cs",
               "ToolTip": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Program.cs",
               "RelativeToolTip": "API_Portofolio\\Program.cs",
-              "ViewState": "AgIAAKQAAAAAAAAAAAAawLEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAawIMAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-24T13:13:13.94Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ResetPasswordRequest.cs",
-              "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Models\\Authenticate\\Request\\ResetPasswordRequest.cs",
-              "RelativeDocumentMoniker": "API_Portofolio\\Models\\Authenticate\\Request\\ResetPasswordRequest.cs",
-              "ToolTip": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Models\\Authenticate\\Request\\ResetPasswordRequest.cs*",
-              "RelativeToolTip": "API_Portofolio\\Models\\Authenticate\\Request\\ResetPasswordRequest.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T18:39:53.434Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MailServices.cs",
-              "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Services\\MailServices.cs",
-              "RelativeDocumentMoniker": "API_Portofolio\\Services\\MailServices.cs",
-              "ToolTip": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Services\\MailServices.cs",
-              "RelativeToolTip": "API_Portofolio\\Services\\MailServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "API_Portofolio\\Hubs\\ChatHub.cs",
+              "ToolTip": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "API_Portofolio\\Hubs\\ChatHub.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAEwGYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T15:12:06.361Z",
+              "WhenOpened": "2025-02-07T14:09:28.175Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IMailServices.cs",
-              "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Interface\\IMailServices.cs",
-              "RelativeDocumentMoniker": "API_Portofolio\\Interface\\IMailServices.cs",
-              "ToolTip": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Interface\\IMailServices.cs",
-              "RelativeToolTip": "API_Portofolio\\Interface\\IMailServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "API_Portofolio\\Controllers\\ChatController.cs",
+              "ToolTip": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "API_Portofolio\\Controllers\\ChatController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T15:11:38.723Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ChatServices.cs",
-              "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Services\\ChatServices.cs",
-              "RelativeDocumentMoniker": "API_Portofolio\\Services\\ChatServices.cs",
-              "ToolTip": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Services\\ChatServices.cs",
-              "RelativeToolTip": "API_Portofolio\\Services\\ChatServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T13:45:31.412Z"
+              "WhenOpened": "2025-02-08T19:30:03.12Z"
             },
             {
               "$type": "Document",
@@ -284,64 +264,200 @@
               "Title": "AuthenticateController.cs",
               "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Controllers\\AuthenticateController.cs",
               "RelativeDocumentMoniker": "API_Portofolio\\Controllers\\AuthenticateController.cs",
-              "ToolTip": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Controllers\\AuthenticateController.cs*",
-              "RelativeToolTip": "API_Portofolio\\Controllers\\AuthenticateController.cs*",
-              "ViewState": "AgIAADsAAAAAAAAAAAAYwLMAAAASAAAAAAAAAA==",
+              "ToolTip": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Controllers\\AuthenticateController.cs",
+              "RelativeToolTip": "API_Portofolio\\Controllers\\AuthenticateController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAawDMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-24T11:17:28.94Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IAuthenticateServices.cs",
-              "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Interface\\IAuthenticateServices.cs",
-              "RelativeDocumentMoniker": "API_Portofolio\\Interface\\IAuthenticateServices.cs",
-              "ToolTip": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Interface\\IAuthenticateServices.cs",
-              "RelativeToolTip": "API_Portofolio\\Interface\\IAuthenticateServices.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "Message.cs",
+              "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Database\\Entities\\Message.cs",
+              "RelativeDocumentMoniker": "API_Portofolio\\Database\\Entities\\Message.cs",
+              "ToolTip": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Database\\Entities\\Message.cs",
+              "RelativeToolTip": "API_Portofolio\\Database\\Entities\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T12:00:27.623Z"
+              "WhenOpened": "2025-01-20T11:28:42.851Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AuthenticateServices.cs",
-              "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Services\\AuthenticateServices.cs",
-              "RelativeDocumentMoniker": "API_Portofolio\\Services\\AuthenticateServices.cs",
-              "ToolTip": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Services\\AuthenticateServices.cs",
-              "RelativeToolTip": "API_Portofolio\\Services\\AuthenticateServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAANYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T12:01:39.247Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "IChatServices.cs",
               "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Interface\\IChatServices.cs",
               "RelativeDocumentMoniker": "API_Portofolio\\Interface\\IChatServices.cs",
               "ToolTip": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Interface\\IChatServices.cs",
               "RelativeToolTip": "API_Portofolio\\Interface\\IChatServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T13:42:31.868Z"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthenticateServices.cs",
+              "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Services\\AuthenticateServices.cs",
+              "RelativeDocumentMoniker": "API_Portofolio\\Services\\AuthenticateServices.cs",
+              "ToolTip": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Services\\AuthenticateServices.cs",
+              "RelativeToolTip": "API_Portofolio\\Services\\AuthenticateServices.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAawF4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:01:39.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Database\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "API_Portofolio\\Database\\DatabaseContext.cs",
+              "ToolTip": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Database\\DatabaseContext.cs",
+              "RelativeToolTip": "API_Portofolio\\Database\\DatabaseContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:22:03.916Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "ChatServices.cs",
+              "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Services\\ChatServices.cs",
+              "RelativeDocumentMoniker": "API_Portofolio\\Services\\ChatServices.cs",
+              "ToolTip": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Services\\ChatServices.cs",
+              "RelativeToolTip": "API_Portofolio\\Services\\ChatServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T13:45:31.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Account.cs",
+              "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Database\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "API_Portofolio\\Database\\Entities\\Account.cs",
+              "ToolTip": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Database\\Entities\\Account.cs",
+              "RelativeToolTip": "API_Portofolio\\Database\\Entities\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:22:28.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "OrderController.cs",
               "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "API_Portofolio\\Controllers\\OrderController.cs",
               "ToolTip": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Controllers\\OrderController.cs",
               "RelativeToolTip": "API_Portofolio\\Controllers\\OrderController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAAIkAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwFYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T07:42:10.347Z"
+              "WhenOpened": "2024-12-30T07:42:10.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MailServices.cs",
+              "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Services\\MailServices.cs",
+              "RelativeDocumentMoniker": "API_Portofolio\\Services\\MailServices.cs",
+              "ToolTip": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Services\\MailServices.cs",
+              "RelativeToolTip": "API_Portofolio\\Services\\MailServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T15:12:06.361Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Models\\Authenticate\\Request\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "API_Portofolio\\Models\\Authenticate\\Request\\LoginRequest.cs",
+              "ToolTip": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Models\\Authenticate\\Request\\LoginRequest.cs",
+              "RelativeToolTip": "API_Portofolio\\Models\\Authenticate\\Request\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:53:28.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAuthenticateServices.cs",
+              "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Interface\\IAuthenticateServices.cs",
+              "RelativeDocumentMoniker": "API_Portofolio\\Interface\\IAuthenticateServices.cs",
+              "ToolTip": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Interface\\IAuthenticateServices.cs",
+              "RelativeToolTip": "API_Portofolio\\Interface\\IAuthenticateServices.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:00:27.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IMailServices.cs",
+              "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Interface\\IMailServices.cs",
+              "RelativeDocumentMoniker": "API_Portofolio\\Interface\\IMailServices.cs",
+              "ToolTip": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Interface\\IMailServices.cs",
+              "RelativeToolTip": "API_Portofolio\\Interface\\IMailServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T15:11:38.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TokensServices.cs",
+              "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Services\\TokensServices.cs",
+              "RelativeDocumentMoniker": "API_Portofolio\\Services\\TokensServices.cs",
+              "ToolTip": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Services\\TokensServices.cs",
+              "RelativeToolTip": "API_Portofolio\\Services\\TokensServices.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:16:55.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ResetPasswordRequest.cs",
+              "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Models\\Authenticate\\Request\\ResetPasswordRequest.cs",
+              "RelativeDocumentMoniker": "API_Portofolio\\Models\\Authenticate\\Request\\ResetPasswordRequest.cs",
+              "ToolTip": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Models\\Authenticate\\Request\\ResetPasswordRequest.cs",
+              "RelativeToolTip": "API_Portofolio\\Models\\Authenticate\\Request\\ResetPasswordRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T18:39:53.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ChangePasswordRequest.cs",
+              "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Models\\Authenticate\\Request\\ChangePasswordRequest.cs",
+              "RelativeDocumentMoniker": "API_Portofolio\\Models\\Authenticate\\Request\\ChangePasswordRequest.cs",
+              "ToolTip": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Models\\Authenticate\\Request\\ChangePasswordRequest.cs",
+              "RelativeToolTip": "API_Portofolio\\Models\\Authenticate\\Request\\ChangePasswordRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T21:43:35.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IOrderServices.cs",
+              "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Interface\\IOrderServices.cs",
+              "RelativeDocumentMoniker": "API_Portofolio\\Interface\\IOrderServices.cs",
+              "ToolTip": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Interface\\IOrderServices.cs",
+              "RelativeToolTip": "API_Portofolio\\Interface\\IOrderServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:00:16.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "Order.cs",
               "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Database\\Entities\\Order.cs",
               "RelativeDocumentMoniker": "API_Portofolio\\Database\\Entities\\Order.cs",
@@ -353,19 +469,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IOrderServices.cs",
-              "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Interface\\IOrderServices.cs",
-              "RelativeDocumentMoniker": "API_Portofolio\\Interface\\IOrderServices.cs",
-              "ToolTip": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Interface\\IOrderServices.cs",
-              "RelativeToolTip": "API_Portofolio\\Interface\\IOrderServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T10:00:16.679Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 19,
               "Title": "OrderServices.cs",
               "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Services\\OrderServices.cs",
               "RelativeDocumentMoniker": "API_Portofolio\\Services\\OrderServices.cs",
@@ -373,23 +477,12 @@
               "RelativeToolTip": "API_Portofolio\\Services\\OrderServices.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAAwLcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T10:03:59.006Z"
+              "WhenOpened": "2024-12-30T10:03:59.006Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ChatController.cs",
-              "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Controllers\\ChatController.cs",
-              "RelativeDocumentMoniker": "API_Portofolio\\Controllers\\ChatController.cs",
-              "ToolTip": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Controllers\\ChatController.cs",
-              "RelativeToolTip": "API_Portofolio\\Controllers\\ChatController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T19:30:03.12Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "ChatListResponse.cs",
               "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Models\\Chat\\Response\\ChatListResponse.cs",
               "RelativeDocumentMoniker": "API_Portofolio\\Models\\Chat\\Response\\ChatListResponse.cs",
@@ -401,19 +494,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "DatabaseContext.cs",
-              "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Database\\DatabaseContext.cs",
-              "RelativeDocumentMoniker": "API_Portofolio\\Database\\DatabaseContext.cs",
-              "ToolTip": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Database\\DatabaseContext.cs",
-              "RelativeToolTip": "API_Portofolio\\Database\\DatabaseContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAADYAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T11:22:03.916Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 50,
               "Title": "20250210172057_AddOrderNumber.cs",
               "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Migrations\\20250210172057_AddOrderNumber.cs",
               "RelativeDocumentMoniker": "API_Portofolio\\Migrations\\20250210172057_AddOrderNumber.cs",
@@ -425,7 +506,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "20250210171011_UpdateMessage.cs",
               "DocumentMoniker": "E:\\Proiecte API\\API_Portofolio\\API_Portofolio\\Migrations\\20250210171011_UpdateMessage.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Proiecte API\\API_Portofolio\\API_Portofolio\\Migrations\\20250210171011_UpdateMessage.cs",
@@ -437,19 +518,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Message.cs",
-              "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Database\\Entities\\Message.cs",
-              "RelativeDocumentMoniker": "API_Portofolio\\Database\\Entities\\Message.cs",
-              "ToolTip": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Database\\Entities\\Message.cs",
-              "RelativeToolTip": "API_Portofolio\\Database\\Entities\\Message.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T11:28:42.851Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 51,
               "Title": "20250210171242_InitialMigration.cs",
               "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Migrations\\20250210171242_InitialMigration.cs",
               "RelativeDocumentMoniker": "API_Portofolio\\Migrations\\20250210171242_InitialMigration.cs",
@@ -461,31 +530,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ChatHub.cs",
-              "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Hubs\\ChatHub.cs",
-              "RelativeDocumentMoniker": "API_Portofolio\\Hubs\\ChatHub.cs",
-              "ToolTip": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Hubs\\ChatHub.cs",
-              "RelativeToolTip": "API_Portofolio\\Hubs\\ChatHub.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T14:09:28.175Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Account.cs",
-              "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Database\\Entities\\Account.cs",
-              "RelativeDocumentMoniker": "API_Portofolio\\Database\\Entities\\Account.cs",
-              "ToolTip": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Database\\Entities\\Account.cs",
-              "RelativeToolTip": "API_Portofolio\\Database\\Entities\\Account.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T11:22:28.487Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "MessageListResponse.cs",
               "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Models\\Chat\\Response\\MessageListResponse.cs",
               "RelativeDocumentMoniker": "API_Portofolio\\Models\\Chat\\Response\\MessageListResponse.cs",
@@ -497,7 +542,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "Chat.cs",
               "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Database\\Entities\\Chat.cs",
               "RelativeDocumentMoniker": "API_Portofolio\\Database\\Entities\\Chat.cs",
@@ -509,7 +554,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "ChatType.cs",
               "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Database\\Entities\\ChatType.cs",
               "RelativeDocumentMoniker": "API_Portofolio\\Database\\Entities\\ChatType.cs",
@@ -521,7 +566,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "StepTwoOrder.cs",
               "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Database\\Entities\\StepTwoOrder.cs",
               "RelativeDocumentMoniker": "API_Portofolio\\Database\\Entities\\StepTwoOrder.cs",
@@ -533,7 +578,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "TypeOfApplication.cs",
               "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Database\\Entities\\TypeOfApplication.cs",
               "RelativeDocumentMoniker": "API_Portofolio\\Database\\Entities\\TypeOfApplication.cs",
@@ -545,7 +590,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "API_Portofolio.http",
               "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\API_Portofolio.http",
               "RelativeDocumentMoniker": "API_Portofolio\\API_Portofolio.http",
@@ -557,7 +602,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "SuportedPlatform.cs",
               "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Database\\Entities\\SuportedPlatform.cs",
               "RelativeDocumentMoniker": "API_Portofolio\\Database\\Entities\\SuportedPlatform.cs",
@@ -569,7 +614,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "HostingPreference.cs",
               "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Database\\Entities\\HostingPreference.cs",
               "RelativeDocumentMoniker": "API_Portofolio\\Database\\Entities\\HostingPreference.cs",
@@ -581,7 +626,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "SuportedPlatform_DTO.cs",
               "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Models\\Order\\Response\\SuportedPlatform_DTO.cs",
               "RelativeDocumentMoniker": "API_Portofolio\\Models\\Order\\Response\\SuportedPlatform_DTO.cs",
@@ -593,7 +638,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\Api_Portofolio.Tests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "Api_Portofolio.Tests\\UnitTest1.cs",
@@ -605,7 +650,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "CreateAccountRequest.cs",
               "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Models\\Authenticate\\Request\\CreateAccountRequest.cs",
               "RelativeDocumentMoniker": "API_Portofolio\\Models\\Authenticate\\Request\\CreateAccountRequest.cs",
@@ -617,7 +662,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "RefreshResponse.cs",
               "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Models\\Authenticate\\Response\\RefreshResponse.cs",
               "RelativeDocumentMoniker": "API_Portofolio\\Models\\Authenticate\\Response\\RefreshResponse.cs",
@@ -629,7 +674,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "SendMailContact_DTO.cs",
               "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Models\\Order\\Request\\SendMailContact_DTO.cs",
               "RelativeDocumentMoniker": "API_Portofolio\\Models\\Order\\Request\\SendMailContact_DTO.cs",
@@ -641,7 +686,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "LoginResponse.cs",
               "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Models\\Authenticate\\Response\\LoginResponse.cs",
               "RelativeDocumentMoniker": "API_Portofolio\\Models\\Authenticate\\Response\\LoginResponse.cs",
@@ -653,19 +698,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "TokensServices.cs",
-              "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Services\\TokensServices.cs",
-              "RelativeDocumentMoniker": "API_Portofolio\\Services\\TokensServices.cs",
-              "ToolTip": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Services\\TokensServices.cs",
-              "RelativeToolTip": "API_Portofolio\\Services\\TokensServices.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAYwEAAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T11:16:55.126Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "ITokensServices.cs",
               "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Interface\\ITokensServices.cs",
               "RelativeDocumentMoniker": "API_Portofolio\\Interface\\ITokensServices.cs",
@@ -677,19 +710,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "LoginRequest.cs",
-              "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Models\\Authenticate\\Request\\LoginRequest.cs",
-              "RelativeDocumentMoniker": "API_Portofolio\\Models\\Authenticate\\Request\\LoginRequest.cs",
-              "ToolTip": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Models\\Authenticate\\Request\\LoginRequest.cs",
-              "RelativeToolTip": "API_Portofolio\\Models\\Authenticate\\Request\\LoginRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T11:53:28.567Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "TokensResponse.cs",
               "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Models\\Authenticate\\Internal\\TokensResponse.cs",
               "RelativeDocumentMoniker": "API_Portofolio\\Models\\Authenticate\\Internal\\TokensResponse.cs",
@@ -701,7 +722,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "StepOne_DTO.cs",
               "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Models\\Order\\Request\\StepOne_DTO.cs",
               "RelativeDocumentMoniker": "API_Portofolio\\Models\\Order\\Request\\StepOne_DTO.cs",
@@ -713,7 +734,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "StepFour_DTO.cs",
               "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Models\\Order\\Request\\StepFour_DTO.cs",
               "RelativeDocumentMoniker": "API_Portofolio\\Models\\Order\\Request\\StepFour_DTO.cs",
@@ -725,7 +746,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "SendOrder_DTO.cs",
               "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Models\\Order\\Request\\SendOrder_DTO.cs",
               "RelativeDocumentMoniker": "API_Portofolio\\Models\\Order\\Request\\SendOrder_DTO.cs",
@@ -737,7 +758,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "StepThree_DTO.cs",
               "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Models\\Order\\Request\\StepThree_DTO.cs",
               "RelativeDocumentMoniker": "API_Portofolio\\Models\\Order\\Request\\StepThree_DTO.cs",
@@ -749,7 +770,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "StepTwo_DTO.cs",
               "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Models\\Order\\Request\\StepTwo_DTO.cs",
               "RelativeDocumentMoniker": "API_Portofolio\\Models\\Order\\Request\\StepTwo_DTO.cs",
@@ -761,7 +782,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "HostingPreference_DTO.cs",
               "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Models\\Order\\Response\\HostingPreference_DTO.cs",
               "RelativeDocumentMoniker": "API_Portofolio\\Models\\Order\\Response\\HostingPreference_DTO.cs",
@@ -773,7 +794,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 46,
               "Title": "StepOneOrder.cs",
               "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Database\\Entities\\StepOneOrder.cs",
               "RelativeDocumentMoniker": "API_Portofolio\\Database\\Entities\\StepOneOrder.cs",
@@ -785,7 +806,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 45,
               "Title": "StepThreeOrder.cs",
               "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Database\\Entities\\StepThreeOrder.cs",
               "RelativeDocumentMoniker": "API_Portofolio\\Database\\Entities\\StepThreeOrder.cs",
@@ -797,7 +818,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 47,
               "Title": "StepFourOrder.cs",
               "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\Database\\Entities\\StepFourOrder.cs",
               "RelativeDocumentMoniker": "API_Portofolio\\Database\\Entities\\StepFourOrder.cs",
@@ -809,7 +830,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 48,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\appsettings.json",
               "RelativeDocumentMoniker": "API_Portofolio\\appsettings.json",
@@ -821,7 +842,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 49,
               "Title": "API_Portofolio",
               "DocumentMoniker": "E:\\GitHub\\api_portofolio\\API_Portofolio\\API_Portofolio\\API_Portofolio.csproj",
               "RelativeDocumentMoniker": "API_Portofolio\\API_Portofolio.csproj",

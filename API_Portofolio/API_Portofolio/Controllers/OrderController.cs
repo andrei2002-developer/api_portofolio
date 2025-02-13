@@ -15,12 +15,15 @@ namespace API_Portofolio.Controllers
     {
         private readonly IOrderServices _orderServices;
         private readonly IChatServices _chatServices;
+        private readonly IMailServices _mailServices;
         private readonly UserManager<Account> _userManager;
-        public OrderController(IOrderServices orderServices, UserManager<Account> userManager, IChatServices chatServices)
+
+        public OrderController(IOrderServices orderServices, UserManager<Account> userManager, IChatServices chatServices,IMailServices mailServices)
         {
             _orderServices = orderServices;
             _userManager = userManager;
             _chatServices = chatServices;
+            _mailServices = mailServices;
         }
 
         [HttpGet("get-typesOfApplication")]
@@ -127,7 +130,6 @@ namespace API_Portofolio.Controllers
             return Ok("Comanda a fost trimisa cu succes");
         }
 
-
         [HttpPost("contact-send")]
         public async Task<IActionResult> SendMailContact([FromBody] SendMailContact_DTO request)
         {
@@ -135,6 +137,20 @@ namespace API_Portofolio.Controllers
             {
                 //_logger.LogWarning("Numele de utilizator si parola nu sunt completate");
                 return BadRequest(ModelState);
+            }
+
+            var result = await _mailServices.SendContactAsync(request);
+
+            if (result.IsError)
+            {
+                var firstError = result.Errors.First();
+
+                return firstError.Type switch
+                {
+                    ErrorType.NotFound => NotFound(new { message = firstError.Description }),
+                    ErrorType.Failure => StatusCode(500, new { message = firstError.Description }),
+                    _ => StatusCode(500, new { message = "A apărut o eroare necunoscută" })
+                };
             }
 
             return Ok();

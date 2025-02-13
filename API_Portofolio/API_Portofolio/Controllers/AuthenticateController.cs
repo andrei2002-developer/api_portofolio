@@ -57,7 +57,7 @@ namespace API_Portofolio.Controllers
                 };
             }
 
-            //var createChat = await _chatServices.CreatePersonalChatAsync("");
+            var createChat = await _chatServices.CreatePersonalChatAsync(result.Value);
 
             return Ok("Account created successfully!");
         }

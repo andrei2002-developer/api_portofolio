@@ -8,7 +8,7 @@ namespace API_Portofolio.Interface
 {
     public interface IAuthenticateServices
     {
-        Task<ErrorOr<bool>> CreateAccountAsync(CreateAccountRequest request);
+        Task<ErrorOr<string>> CreateAccountAsync(CreateAccountRequest request);
         Task<ErrorOr<LoginResponse>> LoginAsync(LoginRequest request);
         Task<ErrorOr<RefreshResponse>> RefreshTokenAsync(string refreshToken);
         Task<ErrorOr<bool>> ChangePasswordAsync(Account user, ChangePasswordRequest request);

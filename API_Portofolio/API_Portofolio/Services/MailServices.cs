@@ -1,11 +1,12 @@
 ﻿using API_Portofolio.Interface;
+using API_Portofolio.Models.Order.Request;
 using ErrorOr;
 
 namespace API_Portofolio.Services
 {
     public class MailServices : IMailServices
     {
-        public Task<ErrorOr<bool>> SendContactAsync(string email, string message)
+        public Task<ErrorOr<bool>> SendContactAsync(SendMailContact_DTO request)
         {
             throw new NotImplementedException();
         }

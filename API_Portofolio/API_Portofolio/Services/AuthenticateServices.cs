@@ -46,7 +46,7 @@ namespace API_Portofolio.Services
             return new ClaimsPrincipal(new ClaimsIdentity(jwtToken.Claims, "jwt"));
         }
 
-        public async Task<ErrorOr<bool>> CreateAccountAsync(CreateAccountRequest request)
+        public async Task<ErrorOr<string>> CreateAccountAsync(CreateAccountRequest request)
         {
             var user = new Account
             {
@@ -91,7 +91,7 @@ namespace API_Portofolio.Services
                     description: $"Eroare la atribuirea rolului: {string.Join(", ", roleAssignmentResult.Errors.Select(e => e.Description))}");
             }
 
-            return true;
+            return user.Id;
         }
 
         public async Task<ErrorOr<LoginResponse>> LoginAsync(LoginRequest request)

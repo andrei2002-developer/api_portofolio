@@ -1,4 +1,5 @@
-﻿using ErrorOr;
+﻿using API_Portofolio.Models.Order.Request;
+using ErrorOr;
 
 namespace API_Portofolio.Interface
 {
@@ -6,6 +7,6 @@ namespace API_Portofolio.Interface
     {
         Task<ErrorOr<bool>> SendResetMailAsync(string email);
         Task<ErrorOr<bool>> SendNotificationAsync(string email,string body);
-        Task<ErrorOr<bool>> SendContactAsync(string email, string message);
+        Task<ErrorOr<bool>> SendContactAsync(SendMailContact_DTO request);
     }
 }

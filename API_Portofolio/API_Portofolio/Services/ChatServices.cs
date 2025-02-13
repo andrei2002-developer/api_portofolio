@@ -41,13 +41,13 @@ namespace API_Portofolio.Services
             }
         }
 
-        public async Task<ErrorOr<bool>> CreatePersonalChatAsync(Account request)
+        public async Task<ErrorOr<bool>> CreatePersonalChatAsync(string idUser)
         {
             await _databaseContext.Chats.AddAsync(new Chat()
             {
                 CretedTime = DateTime.UtcNow,
                 ChatTypeId = new Guid("60bf9886-9060-4c86-a1c8-85ab67446efa"),
-                IdUser = request.Id,
+                IdUser = idUser,
                 IdUser_Secondary = "31b0aec3-2f7f-4504-bfb3-fb2115b04d0d", // id admin
                 Chat_Name = "Personal Conversation",
                 LastAccess = DateTime.UtcNow,
@@ -61,7 +61,7 @@ namespace API_Portofolio.Services
         public async Task<ErrorOr<List<ChatListResponse>>> GetChatsAsync(Account request)
         {
             var chats = await _databaseContext.Chats
-                .Where(u => u.IdUser == request.Id)
+                .Where(u => u.IdUser == request.Id || u.IdUser_Secondary == request.Id)
                 .Select(u => new ChatListResponse()
                 {
                     Id = u.Chat_ReferenceCode,
